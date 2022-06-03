@@ -7,6 +7,9 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+// TO COMPILE:
+// dotnet build -o windowsProcessLauncher --configuration Release
+
 namespace CMD_script_tests
 {
     internal class Program
