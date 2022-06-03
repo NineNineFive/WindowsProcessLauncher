@@ -1,0 +1,15 @@
+C:\Users\larsz\Desktop\csharpfolder\windowsProcessLauncher\windowsProcessLauncher.exe
+C:\Users\larsz\Desktop\csharpfolder\windowsProcessLauncher\windowsProcessLauncher.deps.json
+C:\Users\larsz\Desktop\csharpfolder\windowsProcessLauncher\windowsProcessLauncher.runtimeconfig.json
+C:\Users\larsz\Desktop\csharpfolder\windowsProcessLauncher\windowsProcessLauncher.dll
+C:\Users\larsz\Desktop\csharpfolder\windowsProcessLauncher\windowsProcessLauncher.pdb
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.csproj.AssemblyReference.cache
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.AssemblyInfoInputs.cache
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.AssemblyInfo.cs
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.csproj.CoreCompileInputs.cache
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.dll
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\refint\windowsProcessLauncher.dll
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.pdb
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\windowsProcessLauncher.genruntimeconfig.cache
+C:\Users\larsz\Desktop\csharpfolder\obj\Release\net6.0\ref\windowsProcessLauncher.dll
